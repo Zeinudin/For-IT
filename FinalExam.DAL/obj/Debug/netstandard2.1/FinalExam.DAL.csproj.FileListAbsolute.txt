@@ -1,0 +1,9 @@
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\bin\Debug\netstandard2.1\FinalExam.DAL.deps.json
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\bin\Debug\netstandard2.1\FinalExam.DAL.dll
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\bin\Debug\netstandard2.1\FinalExam.DAL.pdb
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.csprojAssemblyReference.cache
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.AssemblyInfoInputs.cache
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.AssemblyInfo.cs
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.dll
+C:\Users\Lirov Zeinundin\source\repos\FinalExam\FinalExam.DAL\obj\Debug\netstandard2.1\FinalExam.DAL.pdb
